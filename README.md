@@ -1,4 +1,4 @@
-This unpacker script is for the IMG container files that the PS2 version of Bully uses. Credit goes to God(Christian) and myself for the coding. Bully's IMG container files contain the file data for files and the metadata for those files is container within the DIR files. DIR files contain the file offset, file size, and filename for files within the IMG container files but to get the actual file offsets and file size you bit shift the file offset and file size to the left by 11. 
+This unpacker script is for the IMG container files that the PS2 version of Bully uses. Credit goes to God(Christian) and myself for the coding. Bully's IMG container files contain the file data for files and the metadata for those files is within the DIR files. DIR files contain the file offset, file size, and filename for files within the IMG container files but to get the actual file offsets and file size you bit shift the file offset and file size to the left by 11. 
 
 The formats for the IMG and DIR files:
 
