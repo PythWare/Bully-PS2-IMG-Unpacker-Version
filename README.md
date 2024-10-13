@@ -5,7 +5,9 @@ The formats for the IMG and DIR files:
 DIR metadata file:
 
 File offset within the IMG files 4 bytes(calculated by bit shifting the value to the left by 11)
+
 File size 4 bytes (calculated by bit shifting the value to the left by 11)
+
 Filename up to 24 bytes(some files have longer names but the max filename length goes to 24)
 
 IMG container file:
