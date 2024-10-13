@@ -11,3 +11,5 @@ Filename up to 24 bytes(some files have longer names but the max filename length
 IMG container file:
 
 File data equal to the bit shifted file size
+
+I don't think Rockstar will mind since this is for the PS2 version especially since PC version mods exist.
